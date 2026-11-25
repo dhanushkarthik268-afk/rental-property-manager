@@ -1,0 +1,5 @@
+rental_manager
+rental_manager.exe
+tests/data_large/
+*.o
+.DS_Store
